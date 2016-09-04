@@ -118,54 +118,54 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Back" xml:space="preserve">
-    <value>Back</value>
+    <value>Indietro</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancella</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Chiudi</value>
   </data>
   <data name="Maximize" xml:space="preserve">
-    <value>Maximize</value>
+    <value>Ingrandisci</value>
   </data>
   <data name="Minimize" xml:space="preserve">
-    <value>Minimize</value>
+    <value>Riduci a icona</value>
   </data>
   <data name="NavigateLink" xml:space="preserve">
-    <value>Navigate link</value>
+    <value>Link di navigazione</value>
   </data>
   <data name="NavigationFailed" xml:space="preserve">
-    <value>Navigation failed</value>
+    <value>Navigazione fallita</value>
   </data>
   <data name="NavigationFailedFrameNotFound" xml:space="preserve">
-    <value>Unable to navigate to {0}, could not find a ModernFrame target '{1}'</value>
+    <value>Impossibile navigare a {0}, non è possibile trovare un ModernFrame obiettivo '{1}'</value>
   </data>
   <data name="NavigationFailedSourceNotSpecified" xml:space="preserve">
-    <value>Unable to navigate to {0}, no source specified</value>
+    <value>Impossibile navigare a {0}, nessuna sorgente specificata</value>
   </data>
   <data name="No" xml:space="preserve">
     <value>No</value>
   </data>
   <data name="Ok" xml:space="preserve">
-    <value>OK</value>
+    <value>Ok</value>
   </data>
   <data name="Restore" xml:space="preserve">
-    <value>Restore</value>
+    <value>Ripristina giù</value>
   </data>
   <data name="UIThreadRequired" xml:space="preserve">
-    <value>Operation requires the UI thread</value>
+    <value>L'operazione richiede il thread dell'UI</value>
   </data>
   <data name="UnexpectedToken" xml:space="preserve">
-    <value>Unexpected token</value>
+    <value>Token inaspettato</value>
   </data>
   <data name="UnknownOS" xml:space="preserve">
-    <value>Unknown operating system</value>
+    <value>Sistama operativo sconosciuto</value>
   </data>
   <data name="UnknownTokenType" xml:space="preserve">
-    <value>Unknown token type</value>
+    <value>Tipo di token sconosciuto</value>
   </data>
   <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Si</value>
   </data>
 </root>

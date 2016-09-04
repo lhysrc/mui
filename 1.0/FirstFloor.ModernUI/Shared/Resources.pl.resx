@@ -118,54 +118,54 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Back" xml:space="preserve">
-    <value>Back</value>
+    <value>Wróć</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Anuluj</value>
   </data>
   <data name="Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Zamknij</value>
   </data>
   <data name="Maximize" xml:space="preserve">
-    <value>Maximize</value>
+    <value>Powiększ</value>
   </data>
   <data name="Minimize" xml:space="preserve">
-    <value>Minimize</value>
+    <value>Zmniejsz</value>
   </data>
   <data name="NavigateLink" xml:space="preserve">
-    <value>Navigate link</value>
+    <value>Link nawigacyjny</value>
   </data>
   <data name="NavigationFailed" xml:space="preserve">
-    <value>Navigation failed</value>
+    <value>Niepowodzenie nawigowania do celu!</value>
   </data>
   <data name="NavigationFailedFrameNotFound" xml:space="preserve">
-    <value>Unable to navigate to {0}, could not find a ModernFrame target '{1}'</value>
+    <value>Nie mogę przenieść się do {0}, Nie mogę odnaleźć celu '{1}'</value>
   </data>
   <data name="NavigationFailedSourceNotSpecified" xml:space="preserve">
-    <value>Unable to navigate to {0}, no source specified</value>
+    <value>Nie mogę przenieść się do {0}, nie padło źródło!</value>
   </data>
   <data name="No" xml:space="preserve">
-    <value>No</value>
+    <value>Nie</value>
   </data>
   <data name="Ok" xml:space="preserve">
     <value>OK</value>
   </data>
   <data name="Restore" xml:space="preserve">
-    <value>Restore</value>
+    <value>Przywróć</value>
   </data>
   <data name="UIThreadRequired" xml:space="preserve">
-    <value>Operation requires the UI thread</value>
+    <value>Operacja wymaga wyświetlonych okienek!</value>
   </data>
   <data name="UnexpectedToken" xml:space="preserve">
-    <value>Unexpected token</value>
+    <value>Nieoczekiwany token</value>
   </data>
   <data name="UnknownOS" xml:space="preserve">
-    <value>Unknown operating system</value>
+    <value>Jakiś dziwny system operacyjny</value>
   </data>
   <data name="UnknownTokenType" xml:space="preserve">
-    <value>Unknown token type</value>
+    <value>Nieznany typ tokena</value>
   </data>
   <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Tak</value>
   </data>
 </root>
